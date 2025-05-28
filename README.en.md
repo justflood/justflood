@@ -1,3 +1,7 @@
+<p align="right">
+🌐 🇬🇧 English (This page) | [🇹🇷 View in Turkish](README.md)
+</p>
+
 <h1 align="center">👋 Hello! I'm Flood</h1>
 <p align="center">I’m a developer who loves open-source, hardware + software integration, and independent smart systems.</p>
 
