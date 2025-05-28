@@ -1,16 +1,32 @@
-## Hi there 👋
+<p align="right">
+🌐 [🇬🇧 English Version](README.en.md) | 🇹🇷 Türkçe (Bu sayfadasınız)
+</p>
 
-<!--
-**justflood/justflood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Selam! Ben Flood</h1>
+<p align="center">IoT, açık kaynak ve bağımsız sistem geliştirmeyi seven bir geliştiriciyim.</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Hakkımda
+- 🎓 Elektronik temelli yazılımcı, donanım + yazılım odaklı projeler geliştiriyorum  
+- 🔧 ESP8266/ESP32, MQTT, 3D baskı ve Home Assistant ile uğraşıyorum  
+- 🚀 Şu anda **floodLab** adlı açık kaynak akıllı cihaz platformu kuruyorum
+
+---
+
+### 📦 Projeler (Gizli ama yakında yayınlanacak!)
+- `floodSwitch Lite` – Düşük maliyetli 220V Wi-Fi röle cihazı  
+- `floodSwitch` – Gelişmiş versiyon, lokal web arayüz + MQTT  
+- `floodOS` – flood cihazları için temel işletim yazılımı  
+- `floodDocs` – Tüm projeler için açıklayıcı belgeler
+
+---
+
+### 📌 Hedefim:
+> “Donanımsal yazılımı sadeleştirerek yaygınlaştırmak.”
+
+---
+
+### 📲 İletişim & Linkler
+- YouTube: [flood](https://www.youtube.com/@furkansel)  
+- GitHub: [@justflood](https://github.com/justflood)
