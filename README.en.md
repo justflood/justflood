@@ -1,5 +1,5 @@
 <p align="right">
-🌐 🇬🇧 English (This page) | [🇹🇷 View in Turkish](README.md)
+🌐 🇬🇧 English (This page) | <a href="README.md">🇹🇷 View in Turkish</a>
 </p>
 
 <h1 align="center">👋 Hello! I'm Flood</h1>
