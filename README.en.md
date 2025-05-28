@@ -1,32 +1,21 @@
-<p align="right">
-🌐 🇬🇧 English (This page) | <a href="README.md">🇹🇷 View in Turkish</a>
-</p>
+# 👋 Hello! I'm Flood
 
-<h1 align="center">👋 Hello! I'm Flood</h1>
-<p align="center">I’m a developer who loves open-source, hardware + software integration, and independent smart systems.</p>
+🌐 [Türkçe Sürümünü Görüntüle](./README.md)
 
----
+I'm a developer passionate about building open-source and independent systems, especially in the field of IoT.
 
-### 💡 About Me
-- 🎓 Electronics-based developer building hardware + software IoT projects  
-- 🔧 I work with ESP8266/ESP32, MQTT, 3D printing, and Home Assistant  
-- 🚀 Currently building an open-source smart device platform called **floodLab**
+## 💡 About Me
+- 🎓 Electronics-based developer working on hardware + software integrated projects
+- 🔧 Focused on ESP8266/ESP32, MQTT, 3D printing, and Home Assistant
+- 🚀 Currently building **floodTechLab**, an open-source smart device platform
 
----
+## 📦 Projects (Currently under development)
 
-### 📦 Projects (Private for now, public soon!)
-- `floodSwitch Lite` – Low-cost 220V Wi-Fi relay switch  
-- `floodSwitch` – Advanced version with MQTT & local web interface  
-- `floodOS` – Lightweight OS for all flood devices  
-- `floodDocs` – Central documentation for all projects
+- `floodSwitch Lite` – Low-cost 220V Wi-Fi relay switch
 
----
+## 🎯 My Goal:
+> “To simplify hardware-driven software and make it widely accessible.”
 
-### 🎯 My Goal:
-> “Simplify embedded software to make it more accessible.”
-
----
-
-### 📲 Contact & Links
-- YouTube: [Flood](https://www.youtube.com/@furkansel)  
+## 📡 Contact & Links
+- YouTube: [flood](https://www.youtube.com/@furkansel)
 - GitHub: [@justflood](https://github.com/justflood)
