@@ -1,5 +1,5 @@
 <p align="right">
-🌐 [🇬🇧 English Version](README.en.md) | 🇹🇷 Türkçe (Bu sayfadasınız)
+🌐 [🇬🇧 View in English](README.en.md) | 🇹🇷 Türkçe (Bu sayfadasınız)
 </p>
 
 <h1 align="center">👋 Selam! Ben Flood</h1>
