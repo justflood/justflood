@@ -13,6 +13,7 @@ When I'm not debugging code or soldering, you can find me riding my motorcycle o
 
 | Project | Type | The Gist | Status |
 | :--- | :--- | :--- | :--- |
+| 📂 [**Smart File Organizer**](https://github.com/justflood/Smart-File-Organizer) | `Utility` | Automated desktop tool to clean messy folders instantly. (Python/CustomTkinter) | 🚀 **Released (Beta)** |
 | **🤖 Vexorex** | `Software` | Advanced analytics & stat-tracking Discord bot. (Aiming for multi-game support) | `Active Dev` |
 | **🎮 SYS** | `Web` | **ShareYourSets:** A hub for gamers to share configs, crosshairs, and desk setups. | `Planning` |
 | **🔌 floodSwitch** | `Hardware` | Open-source, maker-friendly, and cost-effective DIY Wi-Fi relay. | `Prototype` |
