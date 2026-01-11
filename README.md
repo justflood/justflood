@@ -13,6 +13,7 @@ When I'm not debugging code or soldering, you can find me riding my motorcycle o
 
 | Project | Type | The Gist | Status |
 | :--- | :--- | :--- | :--- |
+| 🎤 [**Flood Tuber**](https://github.com/justflood/flood-tuber) | `OBS-Plugin` | Native PNGtuber for OBS | 🚀 **Released (Beta)** |
 | 📂 [**Smart File Organizer**](https://github.com/justflood/Smart-File-Organizer) | `Utility` | Automated desktop tool to clean messy folders instantly. (Python/CustomTkinter) | 🚀 **Released (Beta)** |
 | **🎮 SYS** | `Web` | **ShareYourSets:** A hub for gamers to share configs, crosshairs, and desk setups. | `Active Dev` |
 | **🤖 Vexorex** | `Software` | Advanced analytics & stat-tracking Discord bot. (Aiming for multi-game support) | `Planning` |
