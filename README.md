@@ -1,5 +1,5 @@
 # Yo, I'm Flood! 👋
-### 21 y/o Computer Engineering Student @ CIU | Founder of [FloodTechLab](https://floodtechlab.com) 🚀
+### 22 y/o Computer Engineering Student @ CIU | Founder of [FloodTechLab](https://floodtechlab.com) 🚀
 
 I'm Furkan. I've been glued to PCs since I was born. My journey started with video games the moment my hands touched a keyboard, which naturally evolved into a curiosity for **how things work**.
 
