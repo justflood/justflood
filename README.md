@@ -7,6 +7,8 @@ By middle school, I was already messing around with Arduino and coding, turning 
 
 When I'm not debugging code or soldering, you can find me riding my motorcycle or grinding in competitive shooters.
 
+[![Patreon](https://img.shields.io/badge/Patreon-Support_Me-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/justflood)
+
 ---
 
 ### 🛠️ What I'm Cooking? (Projects)
